@@ -13,10 +13,10 @@ from src.util import wait_element
 
 driver = webdriver.Chrome(ChromeDriverManager().install())
 
-driver.get("https://www.google.com.br")
-input = driver.find_element_by_xpath('//input')
-input.send_keys('".gov.br" inurl:play.google.com')
-input.send_keys(Keys.RETURN)
+# driver.get("https://www.google.com.br")
+# input = driver.find_element_by_xpath('//input')
+# input.send_keys('".gov.br" inurl:play.google.com')
+# input.send_keys(Keys.RETURN)
 
 def get_livro(url):
     # url = "http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html"
