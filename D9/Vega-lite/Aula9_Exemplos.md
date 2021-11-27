@@ -77,3 +77,26 @@
   ]
 }
 ```
+
+### Exemplo: Consumo de combustivel com intervalo de confiança
+```
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {"url": "data/cars.json"},
+  "encoding": {
+    "x": {"field": "Year", "timeUnit": "year"}
+  },
+  "layer": [
+    { "mark": {"type": "errorband", "extent": "ci"},
+      "encoding": {
+        "y": {"field": "Miles_per_Gallon", "type": "quantitative", "title": "Consumo (95% CIs)"}
+      }
+    },
+    { "mark": "line",
+      "encoding": {
+        "y": {"aggregate": "mean","field": "Miles_per_Gallon"}
+      }
+    }
+  ]
+}
+```
