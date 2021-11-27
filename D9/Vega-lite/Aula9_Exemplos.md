@@ -49,3 +49,31 @@
   } 
 }
 ```
+
+
+###Exemplo Scatter plot e regressao linear da precipitação e vento em seattle
+```
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {"url": "data/seattle-weather.csv"},
+  "layer": [
+    {
+      "mark": "point",
+      "encoding": {
+        "x": {"field": "wind","type": "quantitative"},
+        "y": {"field": "precipitation", "type": "quantitative"
+        }
+      }
+    },
+    {
+      "mark": "line",
+      "transform": [{"regression": "precipitation", "on":"wind"}],
+      "encoding": {
+        "x": {"field": "wind", "type": "quantitative"},
+        "y": {"field": "precipitation","type": "quantitative"},
+        "color":{"value":"red"}
+      }      
+    }
+  ]
+}
+```
