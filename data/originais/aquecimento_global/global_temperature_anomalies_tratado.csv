@@ -8,7 +8,7 @@
 6,1.21,1880,jul,7,July
 7,1.21,1880,aug,8,August
 8,0.49,1880,sep,9,September
-9,-0.59,1880,ouc,10,October
+9,-0.59,1880,,10,October
 10,-1.65,1880,nov,11,November
 11,-2.38,1880,dec,12,December
 12,-2.57,1881,jan,1,January
@@ -20,7 +20,7 @@
 18,1.35,1881,jul,7,July
 19,1.27,1881,aug,8,August
 20,0.51,1881,sep,9,September
-21,-0.57,1881,ouc,10,October
+21,-0.57,1881,,10,October
 22,-1.67,1881,nov,11,November
 23,-2.26,1881,dec,12,December
 24,-2.27,1882,jan,1,January
@@ -32,7 +32,7 @@
 30,1.21,1882,jul,7,July
 31,1.24,1882,aug,8,August
 32,0.55,1882,sep,9,September
-33,-0.61,1882,ouc,10,October
+33,-0.61,1882,,10,October
 34,-1.61,1882,nov,11,November
 35,-2.4,1882,dec,12,December
 36,-2.73,1883,jan,1,January
@@ -44,7 +44,7 @@
 42,1.34,1883,jul,7,July
 43,1.15,1883,aug,8,August
 44,0.44,1883,sep,9,September
-45,-0.5,1883,ouc,10,October
+45,-0.5,1883,,10,October
 46,-1.67,1883,nov,11,November
 47,-2.31,1883,dec,12,December
 48,-2.57,1884,jan,1,January
@@ -56,7 +56,7 @@
 54,1.07,1884,jul,7,July
 55,1.04,1884,aug,8,August
 56,0.38,1884,sep,9,September
-57,-0.6,1884,ouc,10,October
+57,-0.6,1884,,10,October
 58,-1.75,1884,nov,11,November
 59,-2.44,1884,dec,12,December
 60,-3.0,1885,jan,1,January
@@ -68,7 +68,7 @@
 66,1.06,1885,jul,7,July
 67,0.98,1885,aug,8,August
 68,0.41,1885,sep,9,September
-69,-0.55,1885,ouc,10,October
+69,-0.55,1885,,10,October
 70,-1.65,1885,nov,11,November
 71,-2.2,1885,dec,12,December
 72,-2.83,1886,jan,1,January
@@ -80,7 +80,7 @@
 78,1.2,1886,jul,7,July
 79,0.96,1886,aug,8,August
 80,0.39,1886,sep,9,September
-81,-0.65,1886,ouc,10,October
+81,-0.65,1886,,10,October
 82,-1.76,1886,nov,11,November
 83,-2.42,1886,dec,12,December
 84,-3.14,1887,jan,1,January
@@ -92,7 +92,7 @@
 90,1.19,1887,jul,7,July
 91,0.98,1887,aug,8,August
 92,0.42,1887,sep,9,September
-93,-0.69,1887,ouc,10,October
+93,-0.69,1887,,10,October
 94,-1.68,1887,nov,11,November
 95,-2.49,1887,dec,12,December
 96,-2.79,1888,jan,1,January
@@ -104,7 +104,7 @@
 102,1.33,1888,jul,7,July
 103,1.14,1888,aug,8,August
 104,0.55,1888,sep,9,September
-105,-0.34,1888,ouc,10,October
+105,-0.34,1888,,10,October
 106,-1.44,1888,nov,11,November
 107,-2.21,1888,dec,12,December
 108,-2.52,1889,jan,1,January
@@ -116,7 +116,7 @@
 114,1.32,1889,jul,7,July
 115,1.1,1889,aug,8,August
 116,0.43,1889,sep,9,September
-117,-0.58,1889,ouc,10,October
+117,-0.58,1889,,10,October
 118,-1.78,1889,nov,11,November
 119,-2.45,1889,dec,12,December
 120,-2.85,1890,jan,1,January
@@ -128,7 +128,7 @@
 126,1.15,1890,jul,7,July
 127,0.92,1890,aug,8,August
 128,0.26,1890,sep,9,September
-129,-0.6,1890,ouc,10,October
+129,-0.6,1890,,10,October
 130,-1.93,1890,nov,11,November
 131,-2.46,1890,dec,12,December
 132,-2.83,1891,jan,1,January
@@ -140,7 +140,7 @@
 138,1.22,1891,jul,7,July
 139,1.14,1891,aug,8,August
 140,0.51,1891,sep,9,September
-141,-0.57,1891,ouc,10,October
+141,-0.57,1891,,10,October
 142,-1.8,1891,nov,11,November
 143,-2.19,1891,dec,12,December
 144,-2.69,1892,jan,1,January
@@ -152,7 +152,7 @@
 150,1.1,1892,jul,7,July
 151,1.05,1892,aug,8,August
 152,0.52,1892,sep,9,September
-153,-0.49,1892,ouc,10,October
+153,-0.49,1892,,10,October
 154,-1.87,1892,nov,11,November
 155,-2.54,1892,dec,12,December
 156,-3.21,1893,jan,1,January
@@ -164,7 +164,7 @@
 162,1.26,1893,jul,7,July
 163,1.03,1893,aug,8,August
 164,0.45,1893,sep,9,September
-165,-0.53,1893,ouc,10,October
+165,-0.53,1893,,10,October
 166,-1.62,1893,nov,11,November
 167,-2.5,1893,dec,12,December
 168,-2.95,1894,jan,1,January
@@ -176,7 +176,7 @@
 174,1.16,1894,jul,7,July
 175,1.08,1894,aug,8,August
 176,0.4,1894,sep,9,September
-177,-0.57,1894,ouc,10,October
+177,-0.57,1894,,10,October
 178,-1.7,1894,nov,11,November
 179,-2.35,1894,dec,12,December
 180,-2.85,1895,jan,1,January
@@ -188,7 +188,7 @@
 186,1.24,1895,jul,7,July
 187,1.14,1895,aug,8,August
 188,0.56,1895,sep,9,September
-189,-0.44,1895,ouc,10,October
+189,-0.44,1895,,10,October
 190,-1.6,1895,nov,11,November
 191,-2.31,1895,dec,12,December
 192,-2.67,1896,jan,1,January
@@ -200,7 +200,7 @@
 198,1.38,1896,jul,7,July
 199,1.26,1896,aug,8,August
 200,0.62,1896,sep,9,September
-201,-0.25,1896,ouc,10,October
+201,-0.25,1896,,10,October
 202,-1.53,1896,nov,11,November
 203,-2.19,1896,dec,12,December
 204,-2.56,1897,jan,1,January
@@ -212,7 +212,7 @@
 210,1.35,1897,jul,7,July
 211,1.19,1897,aug,8,August
 212,0.57,1897,sep,9,September
-213,-0.48,1897,ouc,10,October
+213,-0.48,1897,,10,October
 214,-1.64,1897,nov,11,November
 215,-2.34,1897,dec,12,December
 216,-2.44,1898,jan,1,January
@@ -224,7 +224,7 @@
 222,1.18,1898,jul,7,July
 223,1.05,1898,aug,8,August
 224,0.43,1898,sep,9,September
-225,-0.69,1898,ouc,10,October
+225,-0.69,1898,,10,October
 226,-1.83,1898,nov,11,November
 227,-2.4,1898,dec,12,December
 228,-2.6,1899,jan,1,January
@@ -236,7 +236,7 @@
 234,1.24,1899,jul,7,July
 235,1.23,1899,aug,8,August
 236,0.62,1899,sep,9,September
-237,-0.41,1899,ouc,10,October
+237,-0.41,1899,,10,October
 238,-1.33,1899,nov,11,November
 239,-2.43,1899,dec,12,December
 240,-2.78,1900,jan,1,January
@@ -248,7 +248,7 @@
 246,1.29,1900,jul,7,July
 247,1.2,1900,aug,8,August
 248,0.6,1900,sep,9,September
-249,-0.27,1900,ouc,10,October
+249,-0.27,1900,,10,October
 250,-1.55,1900,nov,11,November
 251,-2.22,1900,dec,12,December
 252,-2.65,1901,jan,1,January
@@ -260,7 +260,7 @@
 258,1.26,1901,jul,7,July
 259,1.1,1901,aug,8,August
 260,0.43,1901,sep,9,September
-261,-0.67,1901,ouc,10,October
+261,-0.67,1901,,10,October
 262,-1.62,1901,nov,11,November
 263,-2.43,1901,dec,12,December
 264,-2.61,1902,jan,1,January
@@ -272,7 +272,7 @@
 270,1.12,1902,jul,7,July
 271,0.98,1902,aug,8,August
 272,0.36,1902,sep,9,September
-273,-0.65,1902,ouc,10,October
+273,-0.65,1902,,10,October
 274,-1.84,1902,nov,11,November
 275,-2.61,1902,dec,12,December
 276,-2.67,1903,jan,1,January
@@ -284,7 +284,7 @@
 282,1.05,1903,jul,7,July
 283,0.81,1903,aug,8,August
 284,0.16,1903,sep,9,September
-285,-0.84,1903,ouc,10,October
+285,-0.84,1903,,10,October
 286,-1.9,1903,nov,11,November
 287,-2.67,1903,dec,12,December
 288,-3.09,1904,jan,1,January
@@ -296,7 +296,7 @@
 294,0.88,1904,jul,7,July
 295,0.8,1904,aug,8,August
 296,0.12,1904,sep,9,September
-297,-0.76,1904,ouc,10,October
+297,-0.76,1904,,10,October
 298,-1.67,1904,nov,11,November
 299,-2.5,1904,dec,12,December
 300,-2.81,1905,jan,1,January
@@ -308,7 +308,7 @@
 306,1.13,1905,jul,7,July
 307,1.08,1905,aug,8,August
 308,0.46,1905,sep,9,September
-309,-0.61,1905,ouc,10,October
+309,-0.61,1905,,10,October
 310,-1.55,1905,nov,11,November
 311,-2.34,1905,dec,12,December
 312,-2.69,1906,jan,1,January
@@ -320,7 +320,7 @@
 318,1.17,1906,jul,7,July
 319,1.1,1906,aug,8,August
 320,0.38,1906,sep,9,September
-321,-0.55,1906,ouc,10,October
+321,-0.55,1906,,10,October
 322,-1.84,1906,nov,11,November
 323,-2.31,1906,dec,12,December
 324,-2.83,1907,jan,1,January
@@ -332,7 +332,7 @@
 330,1.05,1907,jul,7,July
 331,0.95,1907,aug,8,August
 332,0.32,1907,sep,9,September
-333,-0.6,1907,ouc,10,October
+333,-0.6,1907,,10,October
 334,-1.94,1907,nov,11,November
 335,-2.63,1907,dec,12,December
 336,-2.85,1908,jan,1,January
@@ -344,7 +344,7 @@
 342,1.02,1908,jul,7,July
 343,0.84,1908,aug,8,August
 344,0.29,1908,sep,9,September
-345,-0.81,1908,ouc,10,October
+345,-0.81,1908,,10,October
 346,-1.95,1908,nov,11,November
 347,-2.64,1908,dec,12,December
 348,-3.1,1909,jan,1,January
@@ -356,7 +356,7 @@
 354,0.97,1909,jul,7,July
 355,0.99,1909,aug,8,August
 356,0.3,1909,sep,9,September
-357,-0.73,1909,ouc,10,October
+357,-0.73,1909,,10,October
 358,-1.76,1909,nov,11,November
 359,-2.7,1909,dec,12,December
 360,-2.86,1910,jan,1,January
@@ -368,7 +368,7 @@
 366,1.07,1910,jul,7,July
 367,0.93,1910,aug,8,August
 368,0.29,1910,sep,9,September
-369,-0.74,1910,ouc,10,October
+369,-0.74,1910,,10,October
 370,-1.99,1910,nov,11,November
 371,-2.81,1910,dec,12,December
 372,-3.05,1911,jan,1,January
@@ -380,7 +380,7 @@
 378,1.01,1911,jul,7,July
 379,0.88,1911,aug,8,August
 380,0.27,1911,sep,9,September
-381,-0.59,1911,ouc,10,October
+381,-0.59,1911,,10,October
 382,-1.63,1911,nov,11,November
 383,-2.37,1911,dec,12,December
 384,-2.67,1912,jan,1,January
@@ -392,7 +392,7 @@
 390,0.98,1912,jul,7,July
 391,0.75,1912,aug,8,August
 392,0.14,1912,sep,9,September
-393,-0.93,1912,ouc,10,October
+393,-0.93,1912,,10,October
 394,-1.83,1912,nov,11,November
 395,-2.58,1912,dec,12,December
 396,-2.83,1913,jan,1,January
@@ -404,7 +404,7 @@
 402,1.05,1913,jul,7,July
 403,0.96,1913,aug,8,August
 404,0.29,1913,sep,9,September
-405,-0.7,1913,ouc,10,October
+405,-0.7,1913,,10,October
 406,-1.64,1913,nov,11,November
 407,-2.19,1913,dec,12,December
 408,-2.37,1914,jan,1,January
@@ -416,7 +416,7 @@
 414,1.18,1914,jul,7,July
 415,1.16,1914,aug,8,August
 416,0.52,1914,sep,9,September
-417,-0.4,1914,ouc,10,October
+417,-0.4,1914,,10,October
 418,-1.63,1914,nov,11,November
 419,-2.23,1914,dec,12,December
 420,-2.58,1915,jan,1,January
@@ -428,7 +428,7 @@
 426,1.31,1915,jul,7,July
 427,1.1,1915,aug,8,August
 428,0.48,1915,sep,9,September
-429,-0.61,1915,ouc,10,October
+429,-0.61,1915,,10,October
 430,-1.58,1915,nov,11,November
 431,-2.32,1915,dec,12,December
 432,-2.5,1916,jan,1,January
@@ -440,7 +440,7 @@
 438,1.06,1916,jul,7,July
 439,1.04,1916,aug,8,August
 440,0.33,1916,sep,9,September
-441,-0.63,1916,ouc,10,October
+441,-0.63,1916,,10,October
 442,-1.85,1916,nov,11,November
 443,-2.95,1916,dec,12,December
 444,-2.99,1917,jan,1,January
@@ -452,7 +452,7 @@
 450,1.17,1917,jul,7,July
 451,1.08,1917,aug,8,August
 452,0.47,1917,sep,9,September
-453,-0.76,1917,ouc,10,October
+453,-0.76,1917,,10,October
 454,-1.73,1917,nov,11,November
 455,-2.83,1917,dec,12,December
 456,-2.83,1918,jan,1,January
@@ -464,7 +464,7 @@
 462,1.11,1918,jul,7,July
 463,1.0,1918,aug,8,August
 464,0.5,1918,sep,9,September
-465,-0.41,1918,ouc,10,October
+465,-0.41,1918,,10,October
 466,-1.56,1918,nov,11,November
 467,-2.43,1918,dec,12,December
 468,-2.61,1919,jan,1,January
@@ -476,7 +476,7 @@
 474,1.13,1919,jul,7,July
 475,0.97,1919,aug,8,August
 476,0.43,1919,sep,9,September
-477,-0.55,1919,ouc,10,October
+477,-0.55,1919,,10,October
 478,-1.86,1919,nov,11,November
 479,-2.57,1919,dec,12,December
 480,-2.64,1920,jan,1,January
@@ -488,7 +488,7 @@
 486,1.1,1920,jul,7,July
 487,1.05,1920,aug,8,August
 488,0.45,1920,sep,9,September
-489,-0.63,1920,ouc,10,October
+489,-0.63,1920,,10,October
 490,-1.72,1920,nov,11,November
 491,-2.59,1920,dec,12,December
 492,-2.44,1921,jan,1,January
@@ -500,7 +500,7 @@
 498,1.27,1921,jul,7,July
 499,1.06,1921,aug,8,August
 500,0.48,1921,sep,9,September
-501,-0.39,1921,ouc,10,October
+501,-0.39,1921,,10,October
 502,-1.58,1921,nov,11,November
 503,-2.32,1921,dec,12,December
 504,-2.75,1922,jan,1,January
@@ -512,7 +512,7 @@
 510,1.17,1922,jul,7,July
 511,0.99,1922,aug,8,August
 512,0.33,1922,sep,9,September
-513,-0.68,1922,ouc,10,October
+513,-0.68,1922,,10,October
 514,-1.59,1922,nov,11,November
 515,-2.33,1922,dec,12,December
 516,-2.7,1923,jan,1,January
@@ -524,7 +524,7 @@
 522,1.12,1923,jul,7,July
 523,1.0,1923,aug,8,August
 524,0.37,1923,sep,9,September
-525,-0.47,1923,ouc,10,October
+525,-0.47,1923,,10,October
 526,-1.44,1923,nov,11,November
 527,-2.17,1923,dec,12,December
 528,-2.63,1924,jan,1,January
@@ -536,7 +536,7 @@
 534,1.16,1924,jul,7,July
 535,0.96,1924,aug,8,August
 536,0.34,1924,sep,9,September
-537,-0.7,1924,ouc,10,October
+537,-0.7,1924,,10,October
 538,-1.65,1924,nov,11,November
 539,-2.56,1924,dec,12,December
 540,-2.77,1925,jan,1,January
@@ -548,7 +548,7 @@
 546,1.14,1925,jul,7,July
 547,1.15,1925,aug,8,August
 548,0.49,1925,sep,9,September
-549,-0.54,1925,ouc,10,October
+549,-0.54,1925,,10,October
 550,-1.41,1925,nov,11,November
 551,-2.06,1925,dec,12,December
 552,-2.22,1926,jan,1,January
@@ -560,7 +560,7 @@
 558,1.18,1926,jul,7,July
 559,1.17,1926,aug,8,August
 560,0.52,1926,sep,9,September
-561,-0.46,1926,ouc,10,October
+561,-0.46,1926,,10,October
 562,-1.5,1926,nov,11,November
 563,-2.43,1926,dec,12,December
 564,-2.68,1927,jan,1,January
@@ -572,7 +572,7 @@
 570,1.26,1927,jul,7,July
 571,1.09,1927,aug,8,August
 572,0.54,1927,sep,9,September
-573,-0.37,1927,ouc,10,October
+573,-0.37,1927,,10,October
 574,-1.49,1927,nov,11,November
 575,-2.48,1927,dec,12,December
 576,-2.42,1928,jan,1,January
@@ -584,7 +584,7 @@
 582,1.23,1928,jul,7,July
 583,1.07,1928,aug,8,August
 584,0.46,1928,sep,9,September
-585,-0.53,1928,ouc,10,October
+585,-0.53,1928,,10,October
 586,-1.54,1928,nov,11,November
 587,-2.33,1928,dec,12,December
 588,-2.87,1929,jan,1,January
@@ -596,7 +596,7 @@
 594,1.09,1929,jul,7,July
 595,1.01,1929,aug,8,August
 596,0.42,1929,sep,9,September
-597,-0.48,1929,ouc,10,October
+597,-0.48,1929,,10,October
 598,-1.57,1929,nov,11,November
 599,-2.69,1929,dec,12,December
 600,-2.71,1930,jan,1,January
@@ -608,7 +608,7 @@
 606,1.22,1930,jul,7,July
 607,1.18,1930,aug,8,August
 608,0.53,1930,sep,9,September
-609,-0.45,1930,ouc,10,October
+609,-0.45,1930,,10,October
 610,-1.3,1930,nov,11,November
 611,-2.23,1930,dec,12,December
 612,-2.51,1931,jan,1,January
@@ -620,7 +620,7 @@
 618,1.39,1931,jul,7,July
 619,1.27,1931,aug,8,August
 620,0.59,1931,sep,9,September
-621,-0.34,1931,ouc,10,October
+621,-0.34,1931,,10,October
 622,-1.57,1931,nov,11,November
 623,-2.24,1931,dec,12,December
 624,-2.27,1932,jan,1,January
@@ -632,7 +632,7 @@
 630,1.18,1932,jul,7,July
 631,1.07,1932,aug,8,August
 632,0.53,1932,sep,9,September
-633,-0.46,1932,ouc,10,October
+633,-0.46,1932,,10,October
 634,-1.72,1932,nov,11,November
 635,-2.41,1932,dec,12,December
 636,-2.75,1933,jan,1,January
@@ -644,7 +644,7 @@
 642,1.21,1933,jul,7,July
 643,1.06,1933,aug,8,August
 644,0.38,1933,sep,9,September
-645,-0.57,1933,ouc,10,October
+645,-0.57,1933,,10,October
 646,-1.75,1933,nov,11,November
 647,-2.61,1933,dec,12,December
 648,-2.65,1934,jan,1,January
@@ -656,7 +656,7 @@
 654,1.32,1934,jul,7,July
 655,1.19,1934,aug,8,August
 656,0.49,1934,sep,9,September
-657,-0.44,1934,ouc,10,October
+657,-0.44,1934,,10,October
 658,-1.42,1934,nov,11,November
 659,-2.19,1934,dec,12,December
 660,-2.74,1935,jan,1,January
@@ -668,7 +668,7 @@
 666,1.2,1935,jul,7,July
 667,1.08,1935,aug,8,August
 668,0.44,1935,sep,9,September
-669,-0.44,1935,ouc,10,October
+669,-0.44,1935,,10,October
 670,-1.73,1935,nov,11,November
 671,-2.35,1935,dec,12,December
 672,-2.69,1936,jan,1,January
@@ -680,7 +680,7 @@
 678,1.34,1936,jul,7,July
 679,1.17,1936,aug,8,August
 680,0.56,1936,sep,9,September
-681,-0.4,1936,ouc,10,October
+681,-0.4,1936,,10,October
 682,-1.49,1936,nov,11,November
 683,-2.18,1936,dec,12,December
 684,-2.54,1937,jan,1,January
@@ -692,7 +692,7 @@
 690,1.37,1937,jul,7,July
 691,1.32,1937,aug,8,August
 692,0.76,1937,sep,9,September
-693,-0.28,1937,ouc,10,October
+693,-0.28,1937,,10,October
 694,-1.36,1937,nov,11,November
 695,-2.26,1937,dec,12,December
 696,-2.4,1938,jan,1,January
@@ -704,7 +704,7 @@
 702,1.33,1938,jul,7,July
 703,1.24,1938,aug,8,August
 704,0.67,1938,sep,9,September
-705,-0.25,1938,ouc,10,October
+705,-0.25,1938,,10,October
 706,-1.41,1938,nov,11,November
 707,-2.37,1938,dec,12,December
 708,-2.48,1939,jan,1,January
@@ -716,7 +716,7 @@
 714,1.34,1939,jul,7,July
 715,1.23,1939,aug,8,August
 716,0.58,1939,sep,9,September
-717,-0.39,1939,ouc,10,October
+717,-0.39,1939,,10,October
 718,-1.39,1939,nov,11,November
 719,-1.71,1939,dec,12,December
 720,-2.47,1940,jan,1,January
@@ -728,7 +728,7 @@
 726,1.54,1940,jul,7,July
 727,1.35,1940,aug,8,August
 728,0.78,1940,sep,9,September
-729,-0.28,1940,ouc,10,October
+729,-0.28,1940,,10,October
 730,-1.28,1940,nov,11,November
 731,-1.87,1940,dec,12,December
 732,-2.2,1941,jan,1,January
@@ -740,7 +740,7 @@
 738,1.63,1941,jul,7,July
 739,1.44,1941,aug,8,August
 740,0.67,1941,sep,9,September
-741,-0.02,1941,ouc,10,October
+741,-0.02,1941,,10,October
 742,-1.21,1941,nov,11,November
 743,-1.94,1941,dec,12,December
 744,-2.15,1942,jan,1,January
@@ -752,7 +752,7 @@
 750,1.42,1942,jul,7,July
 751,1.26,1942,aug,8,August
 752,0.6,1942,sep,9,September
-753,-0.37,1942,ouc,10,October
+753,-0.37,1942,,10,October
 754,-1.37,1942,nov,11,November
 755,-2.08,1942,dec,12,December
 756,-2.45,1943,jan,1,January
@@ -764,7 +764,7 @@
 762,1.5,1943,jul,7,July
 763,1.3,1943,aug,8,August
 764,0.71,1943,sep,9,September
-765,-0.14,1943,ouc,10,October
+765,-0.14,1943,,10,October
 766,-1.26,1943,nov,11,November
 767,-1.91,1943,dec,12,December
 768,-2.06,1944,jan,1,January
@@ -776,7 +776,7 @@
 774,1.6,1944,jul,7,July
 775,1.47,1944,aug,8,August
 776,0.95,1944,sep,9,September
-777,-0.1,1944,ouc,10,October
+777,-0.1,1944,,10,October
 778,-1.35,1944,nov,11,November
 779,-2.13,1944,dec,12,December
 780,-2.32,1945,jan,1,January
@@ -788,7 +788,7 @@
 786,1.45,1945,jul,7,July
 787,1.57,1945,aug,8,August
 788,0.87,1945,sep,9,September
-789,-0.17,1945,ouc,10,October
+789,-0.17,1945,,10,October
 790,-1.38,1945,nov,11,November
 791,-2.24,1945,dec,12,December
 792,-2.26,1946,jan,1,January
@@ -800,7 +800,7 @@
 798,1.28,1946,jul,7,July
 799,1.14,1946,aug,8,August
 800,0.58,1946,sep,9,September
-801,-0.42,1946,ouc,10,October
+801,-0.42,1946,,10,October
 802,-1.51,1946,nov,11,November
 803,-2.5,1946,dec,12,December
 804,-2.54,1947,jan,1,January
@@ -812,7 +812,7 @@
 810,1.34,1947,jul,7,July
 811,1.21,1947,aug,8,August
 812,0.52,1947,sep,9,September
-813,-0.3,1947,ouc,10,October
+813,-0.3,1947,,10,October
 814,-1.43,1947,nov,11,November
 815,-2.31,1947,dec,12,December
 816,-2.34,1948,jan,1,January
@@ -824,7 +824,7 @@
 822,1.31,1948,jul,7,July
 823,1.18,1948,aug,8,August
 824,0.54,1948,sep,9,September
-825,-0.43,1948,ouc,10,October
+825,-0.43,1948,,10,October
 826,-1.57,1948,nov,11,November
 827,-2.38,1948,dec,12,December
 828,-2.32,1949,jan,1,January
@@ -836,7 +836,7 @@
 834,1.28,1949,jul,7,July
 835,1.18,1949,aug,8,August
 836,0.51,1949,sep,9,September
-837,-0.42,1949,ouc,10,October
+837,-0.42,1949,,10,October
 838,-1.55,1949,nov,11,November
 839,-2.37,1949,dec,12,December
 840,-2.74,1950,jan,1,January
@@ -848,7 +848,7 @@
 846,1.32,1950,jul,7,July
 847,1.14,1950,aug,8,August
 848,0.53,1950,sep,9,September
-849,-0.58,1950,ouc,10,October
+849,-0.58,1950,,10,October
 850,-1.83,1950,nov,11,November
 851,-2.35,1950,dec,12,December
 852,-2.76,1951,jan,1,January
@@ -860,7 +860,7 @@
 858,1.45,1951,jul,7,July
 859,1.36,1951,aug,8,August
 860,0.73,1951,sep,9,September
-861,-0.31,1951,ouc,10,October
+861,-0.31,1951,,10,October
 862,-1.47,1951,nov,11,November
 863,-2.01,1951,dec,12,December
 864,-2.28,1952,jan,1,January
@@ -872,7 +872,7 @@
 870,1.46,1952,jul,7,July
 871,1.34,1952,aug,8,August
 872,0.72,1952,sep,9,September
-873,-0.37,1952,ouc,10,October
+873,-0.37,1952,,10,October
 874,-1.59,1952,nov,11,November
 875,-2.16,1952,dec,12,December
 876,-2.33,1953,jan,1,January
@@ -884,7 +884,7 @@
 882,1.42,1953,jul,7,July
 883,1.36,1953,aug,8,August
 884,0.69,1953,sep,9,September
-885,-0.3,1953,ouc,10,October
+885,-0.3,1953,,10,October
 886,-1.51,1953,nov,11,November
 887,-2.13,1953,dec,12,December
 888,-2.69,1954,jan,1,January
@@ -896,7 +896,7 @@
 894,1.23,1954,jul,7,July
 895,1.13,1954,aug,8,August
 896,0.55,1954,sep,9,September
-897,-0.4,1954,ouc,10,October
+897,-0.4,1954,,10,October
 898,-1.39,1954,nov,11,November
 899,-2.37,1954,dec,12,December
 900,-2.27,1955,jan,1,January
@@ -908,7 +908,7 @@
 906,1.3,1955,jul,7,July
 907,1.31,1955,aug,8,August
 908,0.54,1955,sep,9,September
-909,-0.41,1955,ouc,10,October
+909,-0.41,1955,,10,October
 910,-1.69,1955,nov,11,November
 911,-2.45,1955,dec,12,December
 912,-2.57,1956,jan,1,January
@@ -920,7 +920,7 @@
 918,1.3,1956,jul,7,July
 919,1.04,1956,aug,8,August
 920,0.45,1956,sep,9,September
-921,-0.6,1956,ouc,10,October
+921,-0.6,1956,,10,October
 922,-1.62,1956,nov,11,November
 923,-2.23,1956,dec,12,December
 924,-2.52,1957,jan,1,January
@@ -932,7 +932,7 @@
 930,1.43,1957,jul,7,July
 931,1.45,1957,aug,8,August
 932,0.74,1957,sep,9,September
-933,-0.35,1957,ouc,10,October
+933,-0.35,1957,,10,October
 934,-1.39,1957,nov,11,November
 935,-1.99,1957,dec,12,December
 936,-2.02,1958,jan,1,January
@@ -944,7 +944,7 @@
 942,1.47,1958,jul,7,July
 943,1.27,1958,aug,8,August
 944,0.63,1958,sep,9,September
-945,-0.32,1958,ouc,10,October
+945,-0.32,1958,,10,October
 946,-1.43,1958,nov,11,November
 947,-2.15,1958,dec,12,December
 948,-2.33,1959,jan,1,January
@@ -956,7 +956,7 @@
 954,1.48,1959,jul,7,July
 955,1.29,1959,aug,8,August
 956,0.59,1959,sep,9,September
-957,-0.45,1959,ouc,10,October
+957,-0.45,1959,,10,October
 958,-1.54,1959,nov,11,November
 959,-2.16,1959,dec,12,December
 960,-2.42,1960,jan,1,January
@@ -968,7 +968,7 @@
 966,1.39,1960,jul,7,July
 967,1.31,1960,aug,8,August
 968,0.72,1960,sep,9,September
-969,-0.29,1960,ouc,10,October
+969,-0.29,1960,,10,October
 970,-1.57,1960,nov,11,November
 971,-1.97,1960,dec,12,December
 972,-2.34,1961,jan,1,January
@@ -980,7 +980,7 @@
 978,1.42,1961,jul,7,July
 979,1.33,1961,aug,8,August
 980,0.72,1961,sep,9,September
-981,-0.36,1961,ouc,10,October
+981,-0.36,1961,,10,October
 982,-1.42,1961,nov,11,November
 983,-2.3,1961,dec,12,December
 984,-2.34,1962,jan,1,January
@@ -992,7 +992,7 @@
 990,1.44,1962,jul,7,July
 991,1.29,1962,aug,8,August
 992,0.66,1962,sep,9,September
-993,-0.36,1962,ouc,10,October
+993,-0.36,1962,,10,October
 994,-1.38,1962,nov,11,November
 995,-2.15,1962,dec,12,December
 996,-2.43,1963,jan,1,January
@@ -1004,7 +1004,7 @@
 1002,1.5,1963,jul,7,July
 1003,1.57,1963,aug,8,August
 1004,0.85,1963,sep,9,September
-1005,-0.21,1963,ouc,10,October
+1005,-0.21,1963,,10,October
 1006,-1.3,1963,nov,11,November
 1007,-2.16,1963,dec,12,December
 1008,-2.49,1964,jan,1,January
@@ -1016,7 +1016,7 @@
 1014,1.39,1964,jul,7,July
 1015,1.09,1964,aug,8,August
 1016,0.36,1964,sep,9,September
-1017,-0.67,1964,ouc,10,October
+1017,-0.67,1964,,10,October
 1018,-1.66,1964,nov,11,November
 1019,-2.45,1964,dec,12,December
 1020,-2.49,1965,jan,1,January
@@ -1028,7 +1028,7 @@
 1026,1.3,1965,jul,7,July
 1027,1.27,1965,aug,8,August
 1028,0.49,1965,sep,9,September
-1029,-0.41,1965,ouc,10,October
+1029,-0.41,1965,,10,October
 1030,-1.52,1965,nov,11,November
 1031,-2.21,1965,dec,12,December
 1032,-2.58,1966,jan,1,January
@@ -1040,7 +1040,7 @@
 1038,1.51,1966,jul,7,July
 1039,1.22,1966,aug,8,August
 1040,0.63,1966,sep,9,September
-1041,-0.51,1966,ouc,10,October
+1041,-0.51,1966,,10,October
 1042,-1.47,1966,nov,11,November
 1043,-2.21,1966,dec,12,December
 1044,-2.47,1967,jan,1,January
@@ -1052,7 +1052,7 @@
 1050,1.43,1967,jul,7,July
 1051,1.31,1967,aug,8,August
 1052,0.59,1967,sep,9,September
-1053,-0.28,1967,ouc,10,October
+1053,-0.28,1967,,10,October
 1054,-1.52,1967,nov,11,November
 1055,-2.18,1967,dec,12,December
 1056,-2.66,1968,jan,1,January
@@ -1064,7 +1064,7 @@
 1062,1.3,1968,jul,7,July
 1063,1.21,1968,aug,8,August
 1064,0.47,1968,sep,9,September
-1065,-0.26,1968,ouc,10,October
+1065,-0.26,1968,,10,October
 1066,-1.48,1968,nov,11,November
 1067,-2.28,1968,dec,12,December
 1068,-2.52,1969,jan,1,January
@@ -1076,7 +1076,7 @@
 1074,1.4,1969,jul,7,July
 1075,1.33,1969,aug,8,August
 1076,0.74,1969,sep,9,September
-1077,-0.23,1969,ouc,10,October
+1077,-0.23,1969,,10,October
 1078,-1.32,1969,nov,11,November
 1079,-1.88,1969,dec,12,December
 1080,-2.32,1970,jan,1,January
@@ -1088,7 +1088,7 @@
 1086,1.4,1970,jul,7,July
 1087,1.21,1970,aug,8,August
 1088,0.76,1970,sep,9,September
-1089,-0.3,1970,ouc,10,October
+1089,-0.3,1970,,10,October
 1090,-1.43,1970,nov,11,November
 1091,-2.27,1970,dec,12,December
 1092,-2.43,1971,jan,1,January
@@ -1100,7 +1100,7 @@
 1098,1.31,1971,jul,7,July
 1099,1.27,1971,aug,8,August
 1100,0.61,1971,sep,9,September
-1101,-0.42,1971,ouc,10,October
+1101,-0.42,1971,,10,October
 1102,-1.5,1971,nov,11,November
 1103,-2.24,1971,dec,12,December
 1104,-2.65,1972,jan,1,January
@@ -1112,7 +1112,7 @@
 1110,1.43,1972,jul,7,July
 1111,1.47,1972,aug,8,August
 1112,0.67,1972,sep,9,September
-1113,-0.27,1972,ouc,10,October
+1113,-0.27,1972,,10,October
 1114,-1.41,1972,nov,11,November
 1115,-1.95,1972,dec,12,December
 1116,-2.12,1973,jan,1,January
@@ -1124,7 +1124,7 @@
 1122,1.52,1973,jul,7,July
 1123,1.33,1973,aug,8,August
 1124,0.75,1973,sep,9,September
-1125,-0.22,1973,ouc,10,October
+1125,-0.22,1973,,10,October
 1126,-1.39,1973,nov,11,November
 1127,-2.21,1973,dec,12,December
 1128,-2.56,1974,jan,1,January
@@ -1136,7 +1136,7 @@
 1134,1.38,1974,jul,7,July
 1135,1.41,1974,aug,8,August
 1136,0.54,1974,sep,9,September
-1137,-0.44,1974,ouc,10,October
+1137,-0.44,1974,,10,October
 1138,-1.52,1974,nov,11,November
 1139,-2.24,1974,dec,12,December
 1140,-2.34,1975,jan,1,January
@@ -1148,7 +1148,7 @@
 1146,1.41,1975,jul,7,July
 1147,1.11,1975,aug,8,August
 1148,0.62,1975,sep,9,September
-1149,-0.45,1975,ouc,10,October
+1149,-0.45,1975,,10,October
 1150,-1.61,1975,nov,11,November
 1151,-2.32,1975,dec,12,December
 1152,-2.42,1976,jan,1,January
@@ -1160,7 +1160,7 @@
 1158,1.32,1976,jul,7,July
 1159,1.16,1976,aug,8,August
 1160,0.56,1976,sep,9,September
-1161,-0.62,1976,ouc,10,October
+1161,-0.62,1976,,10,October
 1162,-1.49,1976,nov,11,November
 1163,-2.05,1976,dec,12,December
 1164,-2.22,1977,jan,1,January
@@ -1172,7 +1172,7 @@
 1170,1.62,1977,jul,7,July
 1171,1.46,1977,aug,8,August
 1172,0.65,1977,sep,9,September
-1173,-0.34,1977,ouc,10,October
+1173,-0.34,1977,,10,October
 1174,-1.28,1977,nov,11,November
 1175,-2.13,1977,dec,12,December
 1176,-2.35,1978,jan,1,January
@@ -1184,7 +1184,7 @@
 1182,1.45,1978,jul,7,July
 1183,1.13,1978,aug,8,August
 1184,0.7,1978,sep,9,September
-1185,-0.36,1978,ouc,10,October
+1185,-0.36,1978,,10,October
 1186,-1.29,1978,nov,11,November
 1187,-2.05,1978,dec,12,December
 1188,-2.29,1979,jan,1,January
@@ -1196,7 +1196,7 @@
 1194,1.44,1979,jul,7,July
 1195,1.44,1979,aug,8,August
 1196,0.9,1979,sep,9,September
-1197,-0.12,1979,ouc,10,October
+1197,-0.12,1979,,10,October
 1198,-1.17,1979,nov,11,November
 1199,-1.68,1979,dec,12,December
 1200,-2.11,1980,jan,1,January
@@ -1208,7 +1208,7 @@
 1206,1.7,1980,jul,7,July
 1207,1.53,1980,aug,8,August
 1208,0.84,1980,sep,9,September
-1209,-0.18,1980,ouc,10,October
+1209,-0.18,1980,,10,October
 1210,-1.16,1980,nov,11,November
 1211,-1.95,1980,dec,12,December
 1212,-1.86,1981,jan,1,January
@@ -1220,7 +1220,7 @@
 1218,1.76,1981,jul,7,July
 1219,1.62,1981,aug,8,August
 1220,0.82,1981,sep,9,September
-1221,-0.22,1981,ouc,10,October
+1221,-0.22,1981,,10,October
 1222,-1.21,1981,nov,11,November
 1223,-1.72,1981,dec,12,December
 1224,-2.31,1982,jan,1,January
@@ -1232,7 +1232,7 @@
 1230,1.55,1982,jul,7,July
 1231,1.37,1982,aug,8,August
 1232,0.79,1982,sep,9,September
-1233,-0.23,1982,ouc,10,October
+1233,-0.23,1982,,10,October
 1234,-1.3,1982,nov,11,November
 1235,-1.72,1982,dec,12,December
 1236,-1.89,1983,jan,1,January
@@ -1244,7 +1244,7 @@
 1242,1.6,1983,jul,7,July
 1243,1.63,1983,aug,8,August
 1244,1.04,1983,sep,9,September
-1245,-0.2,1983,ouc,10,October
+1245,-0.2,1983,,10,October
 1246,-1.13,1983,nov,11,November
 1247,-1.98,1983,dec,12,December
 1248,-2.11,1984,jan,1,January
@@ -1256,7 +1256,7 @@
 1254,1.59,1984,jul,7,July
 1255,1.46,1984,aug,8,August
 1256,0.86,1984,sep,9,September
-1257,-0.2,1984,ouc,10,October
+1257,-0.2,1984,,10,October
 1258,-1.39,1984,nov,11,November
 1259,-2.2,1984,dec,12,December
 1260,-2.19,1985,jan,1,January
@@ -1268,7 +1268,7 @@
 1266,1.41,1985,jul,7,July
 1267,1.45,1985,aug,8,August
 1268,0.8,1985,sep,9,September
-1269,-0.25,1985,ouc,10,October
+1269,-0.25,1985,,10,October
 1270,-1.37,1985,nov,11,November
 1271,-2.0,1985,dec,12,December
 1272,-2.13,1986,jan,1,January
@@ -1280,7 +1280,7 @@
 1278,1.53,1986,jul,7,July
 1279,1.42,1986,aug,8,August
 1280,0.65,1986,sep,9,September
-1281,-0.23,1986,ouc,10,October
+1281,-0.23,1986,,10,October
 1282,-1.34,1986,nov,11,November
 1283,-1.99,1986,dec,12,December
 1284,-2.05,1987,jan,1,January
@@ -1292,7 +1292,7 @@
 1290,1.87,1987,jul,7,July
 1291,1.58,1987,aug,8,August
 1292,1.04,1987,sep,9,September
-1293,-0.04,1987,ouc,10,October
+1293,-0.04,1987,,10,October
 1294,-1.2,1987,nov,11,November
 1295,-1.67,1987,dec,12,December
 1296,-1.83,1988,jan,1,January
@@ -1304,7 +1304,7 @@
 1302,1.76,1988,jul,7,July
 1303,1.77,1988,aug,8,August
 1304,1.06,1988,sep,9,September
-1305,0.03,1988,ouc,10,October
+1305,0.03,1988,,10,October
 1306,-1.33,1988,nov,11,November
 1307,-1.82,1988,dec,12,December
 1308,-2.26,1989,jan,1,January
@@ -1316,7 +1316,7 @@
 1314,1.76,1989,jul,7,July
 1315,1.67,1989,aug,8,August
 1316,1.02,1989,sep,9,September
-1317,-0.04,1989,ouc,10,October
+1317,-0.04,1989,,10,October
 1318,-1.25,1989,nov,11,November
 1319,-1.77,1989,dec,12,December
 1320,-2.0,1990,jan,1,January
@@ -1328,7 +1328,7 @@
 1326,1.85,1990,jul,7,July
 1327,1.61,1990,aug,8,August
 1328,0.94,1990,sep,9,September
-1329,0.05,1990,ouc,10,October
+1329,0.05,1990,,10,October
 1330,-0.99,1990,nov,11,November
 1331,-1.74,1990,dec,12,December
 1332,-2.0,1991,jan,1,January
@@ -1340,7 +1340,7 @@
 1338,1.9,1991,jul,7,July
 1339,1.7,1991,aug,8,August
 1340,1.13,1991,sep,9,September
-1341,-0.06,1991,ouc,10,October
+1341,-0.06,1991,,10,October
 1342,-1.14,1991,nov,11,November
 1343,-1.83,1991,dec,12,December
 1344,-1.97,1992,jan,1,January
@@ -1352,7 +1352,7 @@
 1350,1.54,1992,jul,7,July
 1351,1.37,1992,aug,8,August
 1352,0.65,1992,sep,9,September
-1353,-0.27,1992,ouc,10,October
+1353,-0.27,1992,,10,October
 1354,-1.42,1992,nov,11,November
 1355,-1.93,1992,dec,12,December
 1356,-2.04,1993,jan,1,January
@@ -1364,7 +1364,7 @@
 1362,1.7,1993,jul,7,July
 1363,1.43,1993,aug,8,August
 1364,0.75,1993,sep,9,September
-1365,-0.14,1993,ouc,10,October
+1365,-0.14,1993,,10,October
 1366,-1.39,1993,nov,11,November
 1367,-1.99,1993,dec,12,December
 1368,-2.14,1994,jan,1,January
@@ -1376,7 +1376,7 @@
 1374,1.72,1994,jul,7,July
 1375,1.51,1994,aug,8,August
 1376,0.94,1994,sep,9,September
-1377,0.05,1994,ouc,10,October
+1377,0.05,1994,,10,October
 1378,-0.99,1994,nov,11,November
 1379,-1.79,1994,dec,12,December
 1380,-1.9,1995,jan,1,January
@@ -1388,7 +1388,7 @@
 1386,1.9,1995,jul,7,July
 1387,1.76,1995,aug,8,August
 1388,0.97,1995,sep,9,September
-1389,0.11,1995,ouc,10,October
+1389,0.11,1995,,10,October
 1390,-1.0,1995,nov,11,November
 1391,-1.87,1995,dec,12,December
 1392,-2.16,1996,jan,1,January
@@ -1400,7 +1400,7 @@
 1398,1.77,1996,jul,7,July
 1399,1.79,1996,aug,8,August
 1400,0.9,1996,sep,9,September
-1401,-0.17,1996,ouc,10,October
+1401,-0.17,1996,,10,October
 1402,-1.04,1996,nov,11,November
 1403,-1.75,1996,dec,12,December
 1404,-2.1,1997,jan,1,January
@@ -1412,7 +1412,7 @@
 1410,1.77,1997,jul,7,July
 1411,1.71,1997,aug,8,August
 1412,1.18,1997,sep,9,September
-1413,0.26,1997,ouc,10,October
+1413,0.26,1997,,10,October
 1414,-0.8,1997,nov,11,November
 1415,-1.56,1997,dec,12,December
 1416,-1.81,1998,jan,1,January
@@ -1424,7 +1424,7 @@
 1422,2.1,1998,jul,7,July
 1423,1.96,1998,aug,8,August
 1424,1.07,1998,sep,9,September
-1425,0.08,1998,ouc,10,October
+1425,0.08,1998,,10,October
 1426,-0.96,1998,nov,11,November
 1427,-1.59,1998,dec,12,December
 1428,-1.93,1999,jan,1,January
@@ -1436,7 +1436,7 @@
 1434,1.79,1999,jul,7,July
 1435,1.61,1999,aug,8,August
 1436,1.06,1999,sep,9,September
-1437,0.03,1999,ouc,10,October
+1437,0.03,1999,,10,October
 1438,-1.07,1999,nov,11,November
 1439,-1.72,1999,dec,12,December
 1440,-2.18,2000,jan,1,January
@@ -1448,7 +1448,7 @@
 1446,1.8,2000,jul,7,July
 1447,1.72,2000,aug,8,August
 1448,1.05,2000,sep,9,September
-1449,-0.08,2000,ouc,10,October
+1449,-0.08,2000,,10,October
 1450,-1.13,2000,nov,11,November
 1451,-1.86,2000,dec,12,December
 1452,-1.99,2001,jan,1,January
@@ -1460,7 +1460,7 @@
 1458,2.02,2001,jul,7,July
 1459,1.78,2001,aug,8,August
 1460,1.18,2001,sep,9,September
-1461,0.14,2001,ouc,10,October
+1461,0.14,2001,,10,October
 1462,-0.76,2001,nov,11,November
 1463,-1.6,2001,dec,12,December
 1464,-1.66,2002,jan,1,January
@@ -1472,7 +1472,7 @@
 1470,2.03,2002,jul,7,July
 1471,1.83,2002,aug,8,August
 1472,1.27,2002,sep,9,September
-1473,0.19,2002,ouc,10,October
+1473,0.19,2002,,10,October
 1474,-0.87,2002,nov,11,November
 1475,-1.72,2002,dec,12,December
 1476,-1.68,2003,jan,1,January
@@ -1484,7 +1484,7 @@
 1482,1.95,2003,jul,7,July
 1483,1.95,2003,aug,8,August
 1484,1.29,2003,sep,9,September
-1485,0.38,2003,ouc,10,October
+1485,0.38,2003,,10,October
 1486,-0.93,2003,nov,11,November
 1487,-1.42,2003,dec,12,December
 1488,-1.83,2004,jan,1,January
@@ -1496,7 +1496,7 @@
 1494,1.66,2004,jul,7,July
 1495,1.73,2004,aug,8,August
 1496,1.15,2004,sep,9,September
-1497,0.28,2004,ouc,10,October
+1497,0.28,2004,,10,October
 1498,-0.75,2004,nov,11,November
 1499,-1.64,2004,dec,12,December
 1500,-1.69,2005,jan,1,January
@@ -1508,7 +1508,7 @@
 1506,2.05,2005,jul,7,July
 1507,1.9,2005,aug,8,August
 1508,1.39,2005,sep,9,September
-1509,0.39,2005,ouc,10,October
+1509,0.39,2005,,10,October
 1510,-0.74,2005,nov,11,November
 1511,-1.5,2005,dec,12,December
 1512,-1.85,2006,jan,1,January
@@ -1520,7 +1520,7 @@
 1518,1.94,2006,jul,7,July
 1519,2.0,2006,aug,8,August
 1520,1.26,2006,sep,9,September
-1521,0.31,2006,ouc,10,October
+1521,0.31,2006,,10,October
 1522,-0.75,2006,nov,11,November
 1523,-1.42,2006,dec,12,December
 1524,-1.46,2007,jan,1,January
@@ -1532,7 +1532,7 @@
 1530,2.02,2007,jul,7,July
 1531,1.87,2007,aug,8,August
 1532,1.24,2007,sep,9,September
-1533,0.21,2007,ouc,10,October
+1533,0.21,2007,,10,October
 1534,-0.91,2007,nov,11,November
 1535,-1.69,2007,dec,12,December
 1536,-2.18,2008,jan,1,January
@@ -1544,7 +1544,7 @@
 1542,2.01,2008,jul,7,July
 1543,1.74,2008,aug,8,August
 1544,1.27,2008,sep,9,September
-1545,0.27,2008,ouc,10,October
+1545,0.27,2008,,10,October
 1546,-0.81,2008,nov,11,November
 1547,-1.62,2008,dec,12,December
 1548,-1.8,2009,jan,1,January
@@ -1556,7 +1556,7 @@
 1554,2.11,2009,jul,7,July
 1555,1.96,2009,aug,8,August
 1556,1.33,2009,sep,9,September
-1557,0.27,2009,ouc,10,October
+1557,0.27,2009,,10,October
 1558,-0.69,2009,nov,11,November
 1559,-1.5,2009,dec,12,December
 1560,-1.68,2010,jan,1,January
@@ -1568,7 +1568,7 @@
 1566,2.01,2010,jul,7,July
 1567,1.93,2010,aug,8,August
 1568,1.24,2010,sep,9,September
-1569,0.33,2010,ouc,10,October
+1569,0.33,2010,,10,October
 1570,-0.68,2010,nov,11,November
 1571,-1.69,2010,dec,12,December
 1572,-1.93,2011,jan,1,January
@@ -1580,7 +1580,7 @@
 1578,2.13,2011,jul,7,July
 1579,2.01,2011,aug,8,August
 1580,1.19,2011,sep,9,September
-1581,0.27,2011,ouc,10,October
+1581,0.27,2011,,10,October
 1582,-0.89,2011,nov,11,November
 1583,-1.62,2011,dec,12,December
 1584,-1.96,2012,jan,1,January
@@ -1592,7 +1592,7 @@
 1590,1.95,2012,jul,7,July
 1591,1.92,2012,aug,8,August
 1592,1.37,2012,sep,9,September
-1593,0.38,2012,ouc,10,October
+1593,0.38,2012,,10,October
 1594,-0.72,2012,nov,11,November
 1595,-1.63,2012,dec,12,December
 1596,-1.74,2013,jan,1,January
@@ -1604,7 +1604,7 @@
 1602,1.99,2013,jul,7,July
 1603,1.96,2013,aug,8,August
 1604,1.43,2013,sep,9,September
-1605,0.31,2013,ouc,10,October
+1605,0.31,2013,,10,October
 1606,-0.67,2013,nov,11,November
 1607,-1.5,2013,dec,12,December
 1608,-1.68,2014,jan,1,January
@@ -1616,7 +1616,7 @@
 1614,1.98,2014,jul,7,July
 1615,2.11,2014,aug,8,August
 1616,1.53,2014,sep,9,September
-1617,0.45,2014,ouc,10,October
+1617,0.45,2014,,10,October
 1618,-0.79,2014,nov,11,November
 1619,-1.38,2014,dec,12,December
 1620,-1.6,2015,jan,1,January
@@ -1628,7 +1628,7 @@
 1626,2.13,2015,jul,7,July
 1627,2.09,2015,aug,8,August
 1628,1.47,2015,sep,9,September
-1629,0.71,2015,ouc,10,October
+1629,0.71,2015,,10,October
 1630,-0.42,2015,nov,11,November
 1631,-1.05,2015,dec,12,December
 1632,-1.26,2016,jan,1,January
@@ -1640,7 +1640,7 @@
 1638,2.24,2016,jul,7,July
 1639,2.3,2016,aug,8,August
 1640,1.53,2016,sep,9,September
-1641,0.54,2016,ouc,10,October
+1641,0.54,2016,,10,October
 1642,-0.54,2016,nov,11,November
 1643,-1.32,2016,dec,12,December
 1644,-1.43,2017,jan,1,January
@@ -1652,7 +1652,7 @@
 1650,2.24,2017,jul,7,July
 1651,2.17,2017,aug,8,August
 1652,1.41,2017,sep,9,September
-1653,0.52,2017,ouc,10,October
+1653,0.52,2017,,10,October
 1654,-0.59,2017,nov,11,November
 1655,-1.26,2017,dec,12,December
 1656,-1.64,2018,jan,1,January
@@ -1664,7 +1664,7 @@
 1662,2.2,2018,jul,7,July
 1663,2.03,2018,aug,8,August
 1664,1.41,2018,sep,9,September
-1665,0.63,2018,ouc,10,October
+1665,0.63,2018,,10,October
 1666,-0.67,2018,nov,11,November
 1667,-1.26,2018,dec,12,December
 1668,-1.54,2019,jan,1,January
