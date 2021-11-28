@@ -51,7 +51,7 @@
 ```
 
 
-###Exemplo Scatter plot e regressao linear da precipitação e vento em seattle
+#### Exemplo Scatter plot e regressao linear da precipitação e vento em seattle
 ```
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
@@ -78,7 +78,7 @@
 }
 ```
 
-### Exemplo: Consumo de combustivel com intervalo de confiança
+#### Exemplo: Consumo de combustivel com intervalo de confiança
 ```
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
@@ -100,3 +100,41 @@
   ]
 }
 ```
+
+
+#### Exemplo: Jitter Plot do Dataset Cars
+```
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {"url": "data/cars.json"},
+  "transform": [{"calculate": "random()", "as": "random"}],
+  "height": 300, "width": 300,
+  "mark": {"type":"point", "tooltip": true},
+  "encoding": {
+    "x": {"field": "Horsepower", "type": "quantitative"},
+    "y": {"field": "Cylinders", "type": "ordinal"},
+    "yOffset": {"field": "random", "type": "quantitative"}
+  }
+}
+```
+
+#### Exemplo: Jitter Plot da Anomalia de Temperatura 
+```
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/alexlopespereira/enapespcd2021/main/data/originais/aquecimento_global/global_temperature_anomalies_tratado.csv",
+    "format": {"type": "csv"}
+  },
+  "transform": [{"calculate": "random()", "as": "random"}],
+  "height": 400, "width": 400,
+  "mark": "point",
+  "encoding": {
+    "x": {"field": "data1", "timeUnit":"month", "type": "ordinal"},
+    "y": {"field": "Anomaly", "type": "quantitative"},
+    "xOffset": {"field": "random", "type": "quantitative"}
+  }
+}
+```
+
+
