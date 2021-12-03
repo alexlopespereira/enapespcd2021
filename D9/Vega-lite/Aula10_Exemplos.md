@@ -29,11 +29,21 @@
     "url": "https://servicodados.ibge.gov.br/api/v3/malhas/paises/BR?intrarregiao=UF&formato=application/json",
     "format": {"type": "topojson", "feature": "BRUF"}
   },
+  "transform": [{
+    "lookup": "properties.codarea",
+    "from": {
+      "data": {
+        "url": "https://raw.githubusercontent.com/alexlopespereira/scrollama-with-vegalite/main/data/consumo_2021_uf.csv"
+      },
+      "key": "codarea",
+      "fields": ["consumo_anual_uf"]
+    }
+  }],
   "projection": {
     "type": "mercator"
   },
   "encoding": {
-    "color": {"field": "properties.codarea", "type": "quantitative"}
+    "color": {"field": "consumo_anual_uf", "type": "quantitative"}
   }
-};
+}
 ```
