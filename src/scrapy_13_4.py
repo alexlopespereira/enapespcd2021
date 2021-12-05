@@ -28,7 +28,6 @@ dataset = []
 driver.get(url)
 while True:
     lista_pagina = get_pagina(driver)
-    # Insira um código para clicar no link proxima (ele está no final da página próximo aos números das páginas)
     wait_element(driver, '//li[@class="proxima"]')
     driver.find_element(By.XPATH, '//li[@class="proxima"]').click()
     dataset = dataset + lista_pagina
