@@ -5,7 +5,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 
-def wait_element(driver, by_content, by=By.ID, timeout=8, to_sleep=0):
+def wait_element(driver, by_content, by=By.XPATH, timeout=8, to_sleep=0):
     try:
         element_present = EC.presence_of_element_located((by, by_content))
         WebDriverWait(driver, timeout).until(element_present)
