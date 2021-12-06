@@ -3,9 +3,15 @@ from selenium.webdriver import ActionChains
 from selenium.webdriver.common.keys import Keys
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
 
 
-driver = webdriver.Chrome(ChromeDriverManager().install())
+options = Options()
+options.add_experimental_option("prefs", {
+  "download.default_directory": r"C:\Users\alex\temp",
+  "download.prompt_for_download": False,
+})
+driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
 
 
 url='http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sih/cnv/qgbr.def'
