@@ -15,17 +15,17 @@ driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
 
 
 url='http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sih/cnv/qgbr.def'
-
-for m in range(1, 166):
+driver.get(url)
+lista_anos = driver.find_element(By.XPATH, f'//select[@id="A"]').text.split('\n')
+for m in lista_anos:
     driver.get(url)
-    to_select_mes = driver.find_element(By.XPATH, f'//select[@id="A"]/option[{m}]')
-    if m > 1:
-        driver.find_element(By.XPATH, f'//select[@id="A"]/option[{m-1}]').click()
-        to_select_mes.click()
-
+    selected_mes = driver.find_element(By.XPATH, f'//select[@id="A"]/option[@selected]')
+    selected_mes.click()
+    to_select_mes = driver.find_element(By.XPATH, f'//select[@id="A"]/option[contains(text(),"{m}")]')
+    to_select_mes.click()
     for i in range(2, 16):
         to_select_conteudo = driver.find_element(By.XPATH, f'//select[@id="I"]/option[{i}]')
         ActionChains(driver).key_down(Keys.CONTROL).click(to_select_conteudo).key_up(Keys.CONTROL).perform()
     driver.find_element(By.XPATH, '//input[@class="mostra"]').click()
     driver.find_element(By.XPATH, '//*[contains(text(),"Copia como .CSV")]').click()
-    print(to_select_mes.text)
+
